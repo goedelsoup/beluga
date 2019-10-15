@@ -1,2 +1,11 @@
+~
+.DS_Store
 *.class
 *.log
+target/
+
+.env
+
+.bloop/
+.idea/
+.metals/
